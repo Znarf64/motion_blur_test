@@ -12,7 +12,7 @@ import "vendor:glfw"
 import "core:image/png"
 
 import "glodin"
-import "shared:input"
+import "input"
 
 main :: proc() {
 	glfw.Init()

@@ -1,3 +1,6 @@
 [submodule "glodin"]
 	path = glodin
 	url = https://github.com/francisthecat/glodin
+[submodule "input"]
+	path = input
+	url = https://github.com/francisthecat/input
